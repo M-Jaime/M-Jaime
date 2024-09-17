@@ -1,13 +1,11 @@
-## Olá, Devs! 👋
-### Sou o Manuel Jaime
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Antonio-Gabriel/fe89aca264c72da46f77b253e4098544/raw/cecab4bbaf148f134940438fad1e13eb22160fc5/githubcard.svg"/>
+<img align="right" height="590em" src="[https://raw.githubusercontent.com/gist/Antonio-Gabriel/fe89aca264c72da46f77b253e4098544/raw/cecab4bbaf148f134940438fad1e13eb22160fc5/githubcard.svg](https://avatars.githubusercontent.com/u/142338279?s=400&u=422256ac5a80cd88275f83c235a10582e076bbd5&v=4)"/>
 <h1 align="left">
 Hello guys!
 #<img 
 #src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 <br> welcome to my profile, I'm <br> <br>
-<img src="António Gabriel.png" alt="my gradient name"/>
+<img src="António Gabriel.png" alt="Manuel Jaime"/>
 </h1>
 <em><p style="font-weight: 700;">Send a message and i will reply!</p></em>
 
@@ -29,22 +27,10 @@ Hello guys!
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=react)&nbsp;
-![Next](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=next.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![.Net](https://img.shields.io/badge/-Python-05122A?style=flat&logo=dotnet)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Mysql](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=mysql)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-I was already forgetting these 😜😜😜😜 : 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
