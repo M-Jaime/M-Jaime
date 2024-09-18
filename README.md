@@ -2,8 +2,12 @@
 ## I'm Manuel Jaime 
 ### < pequeno dev 💻/>
 
-![M-Jaime Github stats](https://github-readme-stats.vercel.app/api?username=m-jaime&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-jaime&layout=compact&langs_count=16&theme=dracula)
+
+<div style="display: flex; justify-content: center; gap: 2em;">
+    <br>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=m-jaime&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-jaime&layout=compact&langs_count=16&theme=dracula">
+</div>
 
 
 #### I'm passionate about technology, especially programming, which is my area of focus. 
