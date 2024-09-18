@@ -1,4 +1,4 @@
-# Hi, devs! 🙌🏾 Welcome to my profile 
+# Hi, devs! 🙂 Welcome to my profile! 🙌🏾
 ## I'm Manuel Jaime 
 ### < pequeno dev 💻/>
 
@@ -10,7 +10,7 @@
 </div>
 
 
-#### I'm passionate about technology, especially programming, which is my area of focus. 
+#### ❤️ I'm passionate about technology, especially programming, which is my area of focus. 
 ## Technologies I often use
 <div style="display: inline-block"><br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="border-radius: 3px; margin-left: 0px; border: 2px solid white">
@@ -22,7 +22,7 @@
   
 </div>
 
-### And also
+### And also 😁
 <div style="display: inline-block"><br>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" style="border-radius: 3px; margin-left: 0px; border: 2px solid white">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" style="border-radius: 3px; margin-left: 0px; border: 2px solid white">
@@ -31,15 +31,15 @@
 
 
 
-## My Portfolio
+## My Portfolio 💻💼
 
-[![Blog](https://img.shields.io/website?label=manueljaime-profile.netlify.app&style=for-the-badge&url=https://manueljaime-profile.netlify.app)](https://manueljaime-profile.netlify.app/home)
+[![Portfolio](https://img.shields.io/website?label=manueljaime-profile.netlify.app&style=for-the-badge&url=https://manueljaime-profile.netlify.app)](https://manueljaime-profile.netlify.app/home)
 
-## Social Media
+## Social Media 📱🌐
 
 <a href="https://web.facebook.com/profile.php?id=100083095732207">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="border-radius: 5px ; margin-left: 0px; border: 2px solid white">
 </a>
-<a href="https://manueljaime-profile.netlify.apphttps://www.instagram.com/m_j4ime/">
+<a href="https://www.instagram.com/m_j4ime/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="border-radius: 5px; border: 2px solid white">
 </a>
