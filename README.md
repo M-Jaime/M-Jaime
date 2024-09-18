@@ -2,7 +2,9 @@
 ## I'm Manuel Jaime 
 ### < pequeno dev 💻/>
 
-![M-Jaime Github stats](https://github-readme-stats.vercel.app/api?username=m-jaime&show_icons=true&theme=dracula)
+![M-Jaime Github stats](https://github-readme-stats.vercel.app/api?username=m-jaime&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Most used languages](https://github-readme-stats.vercel.app/api?username=m-jaime&show_icons=true&theme=dracula)
 
 
 #### I'm passionate about technology, especially programming, which is my area of focus. 
