@@ -5,8 +5,8 @@
 
 <div style="display: flex; justify-content: center; gap: 1em;">
     <br>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=m-jaime&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-jaime&layout=compact&langs_count=16&theme=dracula">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=m-jaime&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&text_color=#123456">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-jaime&layout=compact&langs_count=16&theme=dracula&text_color=#123456">
 </div>
 
 
